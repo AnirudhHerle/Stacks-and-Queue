@@ -1,11 +1,3 @@
-/* THIS CODE IS IMPLEMENTING STACKS AND QUEUES OPERATIONS USING ASSERTION
-
-    Author: ABHISHEK K T
-    Reg no: 201051007
-    Department: ME MACHINE LEARNING
-
-*/
-
 #include "stack.h"
 #include "queue.h"
 #include<stdint.h>
